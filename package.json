@@ -1,0 +1,25 @@
+{
+  "name": "pz0bp9-js-footer",
+  "version": "0.1.0",
+  "description": "This module allows the generation of a dynamic footer in JS applications with updated year and name values.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajon02/pz0bp9-js-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Tony Jones <pz0bp9.01@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajon02/pz0bp9-js-footer/issues"
+  },
+  "homepage": "https://github.com/ajon02/pz0bp9-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
